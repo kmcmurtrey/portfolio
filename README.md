@@ -1,0 +1,1 @@
+This is my personal portfolio site. It was originally based on the Treehouse course "How to Make a Website," but now needs to be modified to be more unique and original.

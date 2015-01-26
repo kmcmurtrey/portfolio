@@ -3,7 +3,7 @@ GENERAL
 *********************/
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 #wrapper {
@@ -43,7 +43,7 @@ header {
 }
 
 h1 {
-  font-family: 'Changa One', sans-serif;
+  font-family: 'Lato', sans-serif;
   margin: 15px 0;
   font-size: 1.75em;
   font-weight: normal;
@@ -191,14 +191,23 @@ body {
 }
 
 /*  green header */
-header {
+/*header {
   background: #6ab47b;
   border-color: #599a68;
+}*/
+
+header {
+  background: #2D4671;
+  border-color: #051838;
 }
 
 /*  nav background on mobile */
-nav {
+/*nav {
   background: #599a68;
+}*/
+
+nav {
+  background: #051838;
 }
 
 /* logo text */
@@ -208,7 +217,7 @@ h1, h2 {
 
 /* links */
 a {
-  color: #6ab47b;
+  color: #2D4671;
 }
 
 /* nav links */
@@ -218,6 +227,6 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color: #32673f;
+  color: #051838;
 }
 

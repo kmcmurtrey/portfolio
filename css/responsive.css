@@ -1,7 +1,7 @@
 @media screen and (min-width: 480px) {
   
   /*********************
-  TWO COLUMN LAYOUT
+  TWO COLUMN LAYOUT - Contact
   *********************/
   
   #primary {
@@ -15,7 +15,7 @@
   }
   
   /*********************
-  THREE COLUMN LAYOUT 
+  THREE COLUMN LAYOUT - gallery
   *********************/
   
   #gallery li {

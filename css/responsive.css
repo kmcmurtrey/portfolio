@@ -26,6 +26,8 @@
     clear: left;
   }
   
+  
+  
   /*********************
   PAGE: ABOUT
   *********************/
@@ -73,6 +75,9 @@
     margin-bottom: 60px;
   }
   
+  nav a.selected, nav a:hover {
+    color: #051838;
+  }  
   
 }
 

@@ -219,5 +219,6 @@ nav a, nav a:visited {
 /* selected nav link */
 nav a.selected, nav a:hover {
   color: #2D4671;
+  font-weight: bold;
 }
 

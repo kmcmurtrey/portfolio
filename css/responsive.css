@@ -19,7 +19,9 @@
   *********************/
   
   #gallery li {
-    width: 28.3333%;
+    width: 31.33%;
+    margin: 1%;
+/*    width: 28.3333%;*/
   }
   
   #gallery li:nth-child(3n + 1) {

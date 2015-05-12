@@ -125,13 +125,11 @@ PAGE: PORTFOLIO
 
 #gallery li {
   width: 100%;
-  margin: 1%;
-/*  float: left;*/
+  margin: 2% 1%;
   display: inline-block;
-/*  margin: 2.5%;*/
   text-align: center;
-/*  background-color: #2D4671;*/
   color: #bdc3c7;
+  border: 1px solid;
 }
 
 #gallery li a p {

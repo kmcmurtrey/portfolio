@@ -128,7 +128,6 @@ PAGE: PORTFOLIO
   margin: 2% 1%;
   display: inline-block;
   text-align: center;
-  color: #bdc3c7;
   border: 1px solid;
 }
 
@@ -201,7 +200,7 @@ COLORS
 /* site body */
 body {
   background-color: #fff;
-  color: #999;
+/*  color: #999;*/
 }
 
 header {
@@ -223,6 +222,10 @@ a {
   color: #2D4671;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 /* nav links */
 nav a, nav a:visited {
   color: #fff;
@@ -231,5 +234,6 @@ nav a, nav a:visited {
 /* selected nav link */
 nav a.selected, nav a:hover {
   color: #2D4671;
+  text-decoration: none;
 }
 

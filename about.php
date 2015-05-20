@@ -12,6 +12,7 @@
   </head>
   
   <body>
+    <?php include_once("analyticstracking.php") ?>
     <header>
       <a href="index.html" id="logo">
         <h1>KOREY MCMURTREY</h1>

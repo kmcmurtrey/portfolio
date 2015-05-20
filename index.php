@@ -12,6 +12,7 @@
   </head>
   
   <body>
+    <?php include_once("analyticstracking.php") ?>
     <header>
       <a href="index.html" id="logo">
         <h1>KOREY MCMURTREY</h1>
@@ -32,7 +33,7 @@
         <ul id="gallery">
           <li>
             <a href="http://kmcmurtrey.github.io/dr_lutes_dental/">
-              <img src="img/lutes_dental2.jpg" alt="Image of Dr. Lutes' dental website.">              
+              <img src="img/lutes_dental2.JPG" alt="Image of Dr. Lutes' dental website.">              
             </a>
             <p>Website for Dr. Tim Lutes' Dental Office</p>
             <a href="https://github.com/kmcmurtrey/dr_lutes_dental">

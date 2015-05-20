@@ -9,10 +9,10 @@
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/responsive.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php include_once("analyticstracking.php") ?>
   </head>
   
-  <body>
-    <?php include_once("analyticstracking.php") ?>
+  <body>    
     <header>
       <a href="index.html" id="logo">
         <h1>KOREY MCMURTREY</h1>

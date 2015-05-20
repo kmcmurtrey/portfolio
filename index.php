@@ -20,9 +20,9 @@
       </a>
       <nav>
         <ul>
-          <li><a href="index.html" class="selected">PROJECTS</a></li>
-          <li><a href="about.html">ABOUT</a></li>
-          <li><a href="contact.html">CONTACT</a></li>
+          <li><a href="index.php" class="selected">PROJECTS</a></li>
+          <li><a href="about.php">ABOUT</a></li>
+          <li><a href="contact.php">CONTACT</a></li>
         </ul>
       </nav>
     </header>

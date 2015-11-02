@@ -7,7 +7,19 @@ include("inc/header.php");
         <h3>Projects and Practice</h3>
         <ul id="gallery">
           <li>
-            <a href="http://kmcmurtrey.github.io/dr_lutes_dental/">
+            <a href="https://github.com/kmcmurtrey/web_dev_resources">
+              <img src="img/php_project.JPG" alt="Screenshot of PHP project.">
+            </a>
+            <p>PHP Project - basic CRUD application with video</p>
+            <a href="https://github.com/kmcmurtrey/web_dev_resources">
+              <img src="img/Github.png" alt="Github Logo" class="social-icon">
+            </a>
+              <a href="https://youtu.be/Gwas_D4R8_w">
+                  <img src="img/youtube.png" alt="YouTube Logo" class="social-icon">
+              </a>
+          </li><!--
+          --><li>
+            <a href="http://timothyjlutesdmd.com/">
               <img src="img/lutes_dental2.JPG" alt="Image of Dr. Lutes' dental website.">              
             </a>
             <p>Website for Dr. Tim Lutes' Dental Office</p>

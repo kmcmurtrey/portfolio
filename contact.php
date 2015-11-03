@@ -13,7 +13,6 @@ include("inc/header.php");
         <ul class="contact-info">          
           <li class="email"><a href="mailto:korey.mcmurtrey@gmail.com">korey.mcmurtrey@gmail.com</a></li>
           <li class="phone"><a href="tel:502-445-3476">502-445-3476</a></li>
-          <li class="twitter"><a href="http://twitter.com/intent/tweet?screen_name=koreymc">@koreymc</a></li>
         </ul>
       </section>
 
